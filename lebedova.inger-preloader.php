@@ -4,7 +4,7 @@
 	Description: Preloader for Lebedova.Inger company
 	Author: Richard Markovič
 	Author URI: https://lebedova.inger.cz/
-	Text Domain: marketing-miner
+	Text Domain: lebedova.inger
 	Version: 0.1
 	*/
 
