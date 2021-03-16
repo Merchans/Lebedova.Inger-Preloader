@@ -1,0 +1,28 @@
+/* background styles */
+
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #f7f7f7;
+    z-index: 999999;
+    height: 100%;
+}
+
+/* Put your custom CSS here  */
+
+
+#loading {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	background-image: url("li_logo.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain ;
+	margin: -100px 0 0 -100px;
+}
